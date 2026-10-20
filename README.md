@@ -1,2 +1,2 @@
-# -recommendation-systems
+# recommendation-systems
 Repository for recommendation algorithms
